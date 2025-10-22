@@ -27,6 +27,7 @@ pip install openai aiogram neo4j python-docx nest_asyncio
 ```
 AI_workshop.ipynb   # Основной ноутбук с кодом и логикой проекта
 README.md              # Описание проекта
+ПД_Шатило.docx       # Файл с данными на основе, которого обучается нейронка (В группе ТГ ML)
 ```
 
 ---
